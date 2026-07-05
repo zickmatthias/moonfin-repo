@@ -24,7 +24,7 @@
         "ipkHash": {
           "sha256": "6590a159b527fff9ab57e3461883f925b76077f213fd52c4d3207efb841b610c"
         },
-        "ipkSize": 
+        "ipkSize": 4129688
       },
       "pool": "main",
       "shortDescription": "Moonfin is an enhanced Jellyfin client for LG Smart TVs supporting webOS 3+",
