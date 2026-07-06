@@ -29,6 +29,6 @@
       "pool": "main",
       "shortDescription": "Moonfin is an enhanced Jellyfin client for LG Smart TVs supporting webOS 3+",
       "fullDescriptionUrl": "apps/org.moonfin.webos/full_description.html"
-    },
+    }
   ]
 }
